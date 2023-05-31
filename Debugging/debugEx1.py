@@ -1,12 +1,11 @@
 ############DEBUGGING#####################
 
-# Describe Problem
-## Queston 1
-def my_function():
-  for i in range(1, 20):
-    if i == 20:
-      print("You got it")
-my_function()
+# Question 1:
+# def my_function():
+#   for i in range(1, 20):
+#     if i == 20:
+#       print("You got it")
+# my_function()
 # Answer 1:
 def my_function():
   for i in range(1, 21):# # # The range function starts from(0)
